@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        button.setOnClickListener{ button.text = "DUPA"}
+        button.setOnClickListener{ button.text = getString(R.string.btn_clicked) }
     }
 }

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Test_shd</string>
+    <string name="btn_clicked">Clicked</string>
 </resources>
